@@ -1,0 +1,36 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "simple, clean browser-based task list",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connoro7/tasklist.git"
+  },
+  "keywords": [
+    "task",
+    "list",
+    "todo",
+    "to-do",
+    "todo",
+    "list",
+    "task",
+    "list",
+    "to-do",
+    "list",
+    "agenda",
+    "today"
+  ],
+  "author": "Connor Dillon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connoro7/tasklist/issues"
+  },
+  "homepage": "https://connoro7.github.io/tasklist",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
